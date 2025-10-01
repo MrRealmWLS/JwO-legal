@@ -1,0 +1,29 @@
+Bot Name: JWO  
+Bot ID: 1388857192228065330  
+Creation Date: June 29, 2025  
+Launch Date: September 12, 2024  
+
+Creators & Developers: RealmWLS, Vampire  
+Owners: Fortune, Arbaz  
+Contact Email: realmwls75@gmail.com  
+
+---
+
+This document certifies that RealmWLS & Vampire (Creators & Developers) and Fortune & Arbaz (Owners) are the original creators and legal owners of the Discord bot named “JWO”.
+
+Ownership includes, but is not limited to:
+- Original source code, command structure, and technical logic
+- Unique economy systems, progression formulas, and backend design
+- Branding: name, artwork, profile pictures, banners, description
+- Bot behavior, custom features, and interactive systems
+
+This bot is protected under **international copyright law**, including the Berne Convention and other applicable treaties, regardless of where it is hosted, used, or distributed.  
+Its source code is private and not publicly available.
+
+Any unauthorized reproduction, distribution, imitation, or reverse-engineering of this bot or its features is strictly prohibited and may result in enforcement through international legal mechanisms, platform takedowns, and civil action in applicable jurisdictions.
+
+This file serves as formal proof of authorship and intellectual property rights.
+
+Signed,  
+RealmWLS & Vampire (Creators & Devs), Fortune, Arbaz (Owners)  
+October 1, 2025
