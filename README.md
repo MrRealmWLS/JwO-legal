@@ -49,7 +49,7 @@ Infringement may be addressed under **international copyright law**.
 
 For copyright inquiries or to report infringement, please contact:  
 
-**Email:** jwosupportteam@gmail.com  
+**Email:** jwobot.team@gmail.com  
 **Discord:** RealmWLS & Vampire (Creators & Devs), Fortune, Arbaz (Owners)  
 
 ---
