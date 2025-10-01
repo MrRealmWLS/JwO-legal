@@ -5,7 +5,7 @@
 **Owners:** Fortune, Arbaz  
 **Bot ID:** 1388857192228065330  
 **Creation Date:** June 29, 2025  
-**Launch Date:** September 12, 2024  
+**Launch Date:** September 12, 2025  
 
 ---
 
