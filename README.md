@@ -1,57 +1,46 @@
-# JWO Discord Bot  
+JWO Discord Bot
 
-**Bot Name:** JWO  
-**Creators & Developers:** RealmWLS, Vampire  
-**Owners:** Fortune, Arbaz  
-**Bot ID:** 1388857192228065330  
-**Creation Date:** June 29, 2025  
-**Launch Date:** September 12, 2025  
+Bot Name: JWO
+Bot ID: 1388857192228065330
+Creation Date: June 29, 2025
+Launch Date: September 12, 2025
 
----
+Creators and Developers: RealmWLS, Vampire
+Owners: Fortune, Arbaz
 
-## About
+About
 
-This repository contains the private source and legal documentation for the Discord bot **JWO**.  
-The bot is the original intellectual property of its creators and owners, and is **not open source**.  
+This repository contains private source code and legal documentation for the Discord bot known as “JWO”. JWO is a privately owned software project and is not open source.
 
-JWO is protected under **international copyright law**, including the Berne Convention and related treaties, regardless of where it is hosted, used, or distributed.
+Any reference to the name “Rexlight Studio” is strictly for naming, labeling, or identification purposes only. Rexlight Studio does not own, operate, authorize, license, publish, distribute, manage, maintain, control, sponsor, endorse, or assume responsibility for JWO in any capacity.
 
----
+All access, development, administration, hosting, monetization, moderation, decision-making, and operational control of JWO are handled exclusively by the JWO creators, owners, and internal management team.
 
-## License and Intellectual Property
+Relationship to Rexlight Studio
 
-All code, commands, logic, branding (name, profile picture, banner, description), and unique bot behavior are legally protected.  
+JWO is an independent project. No partnership, joint venture, agency, employment relationship, sponsorship, endorsement, or legal affiliation exists between JWO and Rexlight Studio.
 
-You may **NOT**:
-- Copy, reproduce, or modify JWO’s code, features, or logic  
-- Use or mimic the bot’s branding, name, visuals, or content  
-- Host, relaunch, or distribute any imitation or clone of this bot  
+Rexlight Studio holds no intellectual property rights, licensing authority, or operational rights over JWO and bears no legal, financial, or contractual liability arising from the bot’s use, distribution, or operation.
 
-Please see the `LICENSE.txt` file for full legal terms.  
+License and Intellectual Property
 
----
+All source code, systems, logic, databases, formulas, command structures, features, behavior, and branding associated with JWO, including but not limited to the bot name, visual assets, descriptions, and design elements, are the exclusive intellectual property of the JWO creators and owners.
 
-## Ownership Proof
+This project is not licensed for public use, redistribution, or modification.
 
-The `OWNERSHIP.txt` file documents proof of original creation and authorship by RealmWLS & Vampire (Creators & Developers) and co-ownership by Fortune and Arbaz.  
-Commit history and dated evidence serve as timestamped proof of ownership.
+Unauthorized copying, reproduction, modification, reverse-engineering, imitation, redistribution, hosting, resale, or creation of derivative works is strictly prohibited.
 
----
+JWO is protected under international copyright law, including the Berne Convention and all applicable national and international intellectual property laws, regardless of jurisdiction.
 
-## Reporting Infringement
+Ownership Proof
 
-If you find any bot or user copying any part of JWO, you are encouraged to report it to Discord Trust & Safety or platform providers with this repository’s license and ownership documentation as evidence.  
-Infringement may be addressed under **international copyright law**.
+Authorship and ownership are documented in the OWNERSHIP.txt file. Commit history, timestamps, and related records may be used as legal evidence of original creation and ownership.
 
----
+Reporting Infringement
 
-## Contact
+Any unauthorized use, imitation, or reproduction of JWO may be reported to Discord Trust and Safety or relevant platform providers. Enforcement may include takedowns and legal action under applicable laws.
 
-For copyright inquiries or to report infringement, please contact:  
+Contact
 
-**Email:** jwobot.team@gmail.com  
-**Discord:** RealmWLS & Vampire (Creators & Devs), Fortune, Arbaz (Owners)  
-
----
-
-Thank you for respecting the intellectual property rights of this bot.
+For legal or copyright inquiries:
+Email: jwobot.team@gmail.com
